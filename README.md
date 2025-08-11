@@ -26,7 +26,7 @@ O sistema foi pensado principalmente para ONGs e instituições do terceiro seto
 
 O projeto combina hardware e software para criar uma solução funcional e escalável. Entre as tecnologias utilizadas estão sensores IoT (como o ultrassônico para medir nível de preenchimento), Node.js para o back-end, HTML/CSS/JavaScript no front-end e banco de dados MySQL ou MongoDB para armazenamento das informações. A comunicação entre os dispositivos e a plataforma pode ocorrer via MQTT ou API HTTP, com possibilidade de hospedagem em serviços de nuvem.
 
-
+---
 
 ## Autores
 - **Gabriel da Silva Mendes** – Desenvolvimento e Documentação  
