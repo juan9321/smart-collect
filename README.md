@@ -2,6 +2,8 @@
 
 O Smart Collect é um sistema de monitoramento inteligente para pontos de coleta de recicláveis, desenvolvido como Projeto Integrador, a solução foi pensada para ONGs e instituições do terceiro setor que atuam na coleta e reciclagem de resíduos, utilizando sensores com tecnologia IoT para verificar, em tempo real, se o coletor está cheio e avisar automaticamente as organizações cadastradas por meio de um site.
 
+---
+
 ## Objetivo
 
 O projeto busca resolver a falta de visibilidade sobre o volume de materiais doados.  
@@ -17,17 +19,17 @@ A solução proposta será combinar sensores IoT, plataforma web e alertas intel
 
 O sistema foi pensado principalmente para ONGs e instituições do terceiro setor, mas também beneficia diretamente os doadores  que podem ser pessoas físicas, empresas, estabelecimentos comerciais ou condomínios, enquanto as ONGs recebem uma ferramenta completa para monitorar volume, frequência e status de cada coletor, os doadores ganham acesso a informações claras sobre todo o processo: desde o recebimento até o destino final do material.
 
----
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9ac4d019-62f2-4610-bd88-d083c2710ef6" />
+
 
 ## Tecnologias Utilizadas
 
 O projeto combina hardware e software para criar uma solução funcional e escalável. Entre as tecnologias utilizadas estão sensores IoT (como o ultrassônico para medir nível de preenchimento), Node.js para o back-end, HTML/CSS/JavaScript no front-end e banco de dados MySQL ou MongoDB para armazenamento das informações. A comunicação entre os dispositivos e a plataforma pode ocorrer via MQTT ou API HTTP, com possibilidade de hospedagem em serviços de nuvem.
 
----
+
 
 ## ✨ Autores
 - **Gabriel da Silva Mendes** – Desenvolvimento e Documentação  
 - **Juan Farias da Rocha** –  Design e Documentação  
 - **Victor Novaes Cardoso** – Desenvolvimento e Documentação
   
----
