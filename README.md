@@ -28,7 +28,7 @@ O projeto combina hardware e software para criar uma solução funcional e escal
 
 
 
-## ✨ Autores
+## Autores
 - **Gabriel da Silva Mendes** – Desenvolvimento e Documentação  
 - **Juan Farias da Rocha** –  Design e Documentação  
 - **Victor Novaes Cardoso** – Desenvolvimento e Documentação
